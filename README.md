@@ -1,7 +1,6 @@
 ## Hi, i'm Gustavo Bays!
 
-- 🔭 I’m currently working with back-end on the e-commerce world.
-- 🌱 I’m currently studying Typescript mainly.
+- 🔭 I’m currently working as a Full-Stack developer.
 - 📫 Contact me via email: gustavo_boliv@hotmail.com
 
 ##
